@@ -1,0 +1,5 @@
+  123            9879547                       Jerico                            0.00
+	WELCOME TO G-G BANK: THE WORLD'S BEST BANK
+	List of Customer/s:
+  145            3570-23                        Glics                         6000.00
+   45            345-78                       Shamsi                         7000.00
